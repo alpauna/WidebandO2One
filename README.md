@@ -1,6 +1,8 @@
 WidebandO2One
 ==
-First Wideband O2 Controller for Bosch LS 4.9 Sensors
+First Wideband O2 Controller for Bosch LS 4.9 Sensors. I hope to add more complex controllers in the future that is why I named it "WidebandO2One"
+Also, because it is going to control only one sensor. I plan on a two as well and will add that to my [Megasquirt projects](https://alshowto.com/tag/megasquirt/). 
+
 Key Elements
 --
 * Uses ATTiny 1626 micorprocessor as the micro as they are cheap and easy to program. It is using the Arduino code base.
