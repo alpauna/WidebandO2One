@@ -8,7 +8,9 @@ Key Elements
 * Uses the Bosch CJ125 controller chip as the basis of sensor control.
 * More to come as project expands into my [99 Ford F150](https://alshowto.com/category/electronics/99-f150-rebuild/) project.
 
-So far, I only have the schematics done. Code to follow shortly, but loosly based on Arduino shield code from [here](http://www.bylund-automotive.com/educative/lambda/).
+So far, I only have the schematics done. Code to follow shortly, but loosely based on Arduino shield code from [here](http://www.bylund-automotive.com/educative/lambda/).
+
+**Note: All Schematics are written in [KiCad](https://www.kicad.org/).**
 
 Works Only With LS 4.9 sensors
 --
